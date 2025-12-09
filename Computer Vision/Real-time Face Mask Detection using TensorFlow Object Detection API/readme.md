@@ -28,10 +28,8 @@ After installing LabelImg and the images of both with face mask and without face
 	labelImg <PATH_TO_TF>/TensorFlow/workspace/face-mask-detection/images
 
 ### Annotating the image (No_Mask)
-![image](https://user-images.githubusercontent.com/62516990/149002497-48c18a75-efef-40fd-9bef-c842d7c56fa3.png)
 
 ### Annotating the image (Mask)
-![image](https://user-images.githubusercontent.com/62516990/149002521-7d19e2b4-3cc4-4ecf-b85e-9a41ae23d46e.png)
 
 ### After annotating a .xml file is created (Mask)
  ![image](https://user-images.githubusercontent.com/62516990/149002569-4e13ae86-8b8c-4e38-a108-fb1e4a0839b9.png)
